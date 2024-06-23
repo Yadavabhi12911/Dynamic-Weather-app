@@ -18,4 +18,4 @@ Search Functionality: Users can easily search for any city to get its weather fo
 User-Friendly Interface: Simple and intuitive design makes it easy for users to navigate and find information quickly.
 These features make the app useful for planning daily activities and staying informed about weather changes.
 
-For more details, visit the Dynamic Weather App.
+For more details, visit dynamic-weather-app-seven.vercel.app
