@@ -1,14 +1,11 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
+#javascript 
+#Tailwind
+#OpenWeater Api
 
 #The Dynamic Weather App provides a real-time weather forecast, displaying current temperature, humidity, and air quality index for a specified location. It also offers a visually appealing interface with background images that correspond to the current weather conditions. The app includes a search bar for users to enter their desired city and receive updated weather information instantly. Visit Dynamic Weather App for more details.
+
+![image](https://github.com/Yadavabhi12911/Dynamic-Weather-app/assets/142441508/f80ad178-d807-40ea-8a88-d074943643a9)
 
 The Dynamic Weather App offers several benefits and uses:
 
