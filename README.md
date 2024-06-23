@@ -19,4 +19,4 @@ The Dynamic Weather App offers several benefits and uses:
 
 5.These features make the app useful for planning daily activities and staying informed about weather changes.
 
-For more details, visit dynamic-weather-app-seven.vercel.app
+For more details, visit https://dynamic-weather-app-seven.vercel.app/
