@@ -14,5 +14,7 @@
 .app{
   min-height: 100vh;
   display: grid;
-  background-color: #e2d4ff
+  
+  --tw-bg-opacity:0.9 ;
+  background-color: rgb(17 24 39 / var(--tw-bg-opacity));
 }

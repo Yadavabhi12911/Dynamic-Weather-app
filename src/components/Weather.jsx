@@ -58,7 +58,7 @@ const Weather = () => {
   }, []);
 
   return (
-    <div className="weather place-self-center p-10 rounded-[10px] flex flex-col items-center" style={{ background: "linear-gradient(45deg, #2f4680, #500ae4)" }}>
+    <div className="weather  place-self-center p-10 rounded-[10px] flex flex-col items-center bg-neutral-900 " >
       <div className="search-bar flex items-center gap-3">
         <input
           className="h-[50px] border-none outline-none rounded-[40px] pl-[25px] text-[#626262] bg-[#ebfffc] text-[18px]"
